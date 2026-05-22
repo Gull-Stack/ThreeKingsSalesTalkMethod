@@ -25,9 +25,10 @@ When this skill is active, every piece of communication you produce for a buyer 
 ## When called
 
 1. Read `FRAMEWORKS/voss.md`, `FRAMEWORKS/belfort.md`, `FRAMEWORKS/storybrand.md`, `FRAMEWORKS/wizgat.md`.
-2. Read `OBJECTION-MATRIX.md` and `EMAIL-RULES.md`.
-3. Read the relevant `APPLICATIONS/` file for the domain (federal-employees or gullstack-sales).
-4. Draft. Self-audit against all three kings + WizGat + hard rules. Only output if every check passes.
+2. For deep Belfort work (call scripts, objection handling, tonality), also load the relevant `FRAMEWORKS/belfort/` module(s): `syntax-of-a-sale`, `tonality`, `looping`, `three-tens`, `state-management`, `prospecting-qualifying`, `language-patterns`. `belfort.md` indexes them.
+3. Read `OBJECTION-MATRIX.md` and `EMAIL-RULES.md`.
+4. Read the relevant `APPLICATIONS/` file for the domain (federal-employees or gullstack-sales).
+5. Draft. Self-audit against all three kings + WizGat + hard rules. Only output if every check passes.
 
 ## What this skill does not do
 
