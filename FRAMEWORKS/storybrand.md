@@ -1,5 +1,13 @@
 # Donald Miller — StoryBrand
 
+> **Distilled operator card — not the canon.** The full canonical StoryBrand
+> reference (SB7 in depth, one-liner formula, Marketing Made Simple funnel,
+> website wireframe, BrandScript template) is
+> [`gullstack-skills/storybrand.md`](https://github.com/Gull-Stack/gullstack-skills/blob/main/storybrand.md).
+> Doctrine changes land THERE first; this card only changes to track the canon
+> (bryce-method anti-lesson #7: link, don't copy). What's unique here: the
+> Three Kings funnel position and the Capital Wealth application notes.
+
 Every buyer experiences purchase as a story. If you cast your company as the hero, you lose. The customer is the hero. You are the guide.
 
 ## The 7-part framework (SB7)
