@@ -1,6 +1,6 @@
 # Three Kings Sales Talk Method
 
-> Voss + Belfort + Miller. The unified communication doctrine behind Gull-Stack and Capital Wealth messaging.
+> Voss + Belfort + Miller. The unified communication doctrine behind every Gull-Stack and Walkthru Labs message.
 
 Three communication masters. One integrated method. Every email, script, website, and conversation follows all three simultaneously.
 
@@ -39,4 +39,4 @@ Invoke with `/three-kings-salestalk` in any Claude Code session — all framewor
 
 ## Ownership
 
-Maintained by **Josh Cohen** (Director of Marketing, Capital Wealth · Gull-Stack). Operating DNA for Winchester, Bruno, PeterQuill, and the marketing sub-bot team.
+Maintained by **Josh Cohen** (Gull-Stack / Walkthru Labs). Operating DNA for Winchester, Bruno, PeterQuill, and the marketing sub-bot team.

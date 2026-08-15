@@ -46,9 +46,9 @@ For each feature / fact, silently ask "what's so great about that?" until you hi
 
 Not two. Not three. One clean next step.
 
-## 9. No emojis in Capital Wealth outbound
+## 9. No emojis to federal or wealth buyers
 
-Federal / wealth buyers read emojis as unserious. Stripped from all CW outbound. (Gull-Stack SuperTool outbound can use them sparingly.)
+They read emojis as unserious. Strip them from any federal-retirement or wealth outbound. (Gull-Stack SuperTool outbound can use them sparingly.)
 
 ## 10. Signature discipline
 

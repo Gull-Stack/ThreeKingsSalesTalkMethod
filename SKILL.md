@@ -1,6 +1,6 @@
 ---
 name: three-kings-salestalk
-description: The Three Kings Sales Talk Method — Voss (tactical empathy) + Belfort (straight line) + Miller (StoryBrand). Use when drafting any sales communication, outbound email, landing page copy, call script, cold-outreach message, objection handler, or bot system prompt. Especially for Capital Wealth federal-employee messaging and Gull-Stack SuperTool sales.
+description: The Three Kings Sales Talk Method — Voss (tactical empathy) + Belfort (straight line) + Miller (StoryBrand). Use when drafting any sales communication, outbound email, landing page copy, call script, cold-outreach message, objection handler, or bot system prompt. Especially for federal-retirement messaging (Honor Watch / Operation Gold Watch) and Gull-Stack SuperTool sales.
 ---
 
 # Three Kings Sales Talk Method

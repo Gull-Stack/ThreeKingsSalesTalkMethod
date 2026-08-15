@@ -1,6 +1,12 @@
-# Application: Capital Wealth → Federal Employees
+# Application: Federal Employees
 
-Context from the Ann meeting, 2026-04-08. Ann is the external federal-benefits expert advising CW.
+⚠️ **The client this was written for (Capital Wealth) is gone — 2026-08-14.** The
+messaging is kept because the audience did not go anywhere: the live home for it
+is **Honor Watch / Operation Gold Watch**, the standalone fee-only federal-
+retirement company. Read the villain and the vocabulary below as doctrine about
+federal employees, not as notes about a client.
+
+Context from the Ann meeting, 2026-04-08 — Ann is an external federal-benefits expert.
 
 ## The villain (Miller)
 

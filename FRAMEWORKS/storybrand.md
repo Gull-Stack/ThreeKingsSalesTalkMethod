@@ -6,7 +6,7 @@
 > [`gullstack-skills/storybrand.md`](https://github.com/Gull-Stack/gullstack-skills/blob/main/storybrand.md).
 > Doctrine changes land THERE first; this card only changes to track the canon
 > (bryce-method anti-lesson #7: link, don't copy). What's unique here: the
-> Three Kings funnel position and the Capital Wealth application notes.
+> Three Kings funnel position and the federal-employee application notes.
 
 Every buyer experiences purchase as a story. If you cast your company as the hero, you lose. The customer is the hero. You are the guide.
 
@@ -30,7 +30,7 @@ Heroes need villains. Villains must be:
 
 Naming the villain externalizes the fight. The buyer is no longer fighting their own inadequacy — they're fighting a real antagonist, and you're the one with the weapon.
 
-**Capital Wealth federal villain (canonical):** complexity + being left on your own + feeling dumb for not knowing. Named origin: the 2011 Sequestration that gutted agency HR.
+**Federal villain (canonical):** complexity + being left on your own + feeling dumb for not knowing. Named origin: the 2011 Sequestration that gutted agency HR.
 
 ## Grunt test
 
@@ -44,7 +44,7 @@ If any of the three is unclear, the page fails.
 ## The guide posture
 
 - Never self-promote. Promote the hero's future.
-- "People don't care how good Capital Wealth is. They care: can you solve MY problem?"
+- "People don't care how good the firm is. They care: can you solve MY problem?"
 - Authority is shown through specifics (results, testimonials, numbers) — not adjectives.
 
 ## When Miller wins alone
