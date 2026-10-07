@@ -26,7 +26,7 @@ When this skill is active, every piece of communication you produce for a buyer 
 
 1. Read `FRAMEWORKS/voss.md`, `FRAMEWORKS/belfort.md`, `FRAMEWORKS/storybrand.md`, `FRAMEWORKS/wizgat.md`.
 2. For deep Belfort work (call scripts, objection handling, tonality), also load the relevant `FRAMEWORKS/belfort/` module(s): `syntax-of-a-sale`, `tonality`, `looping`, `three-tens`, `state-management`, `prospecting-qualifying`, `language-patterns`. `belfort.md` indexes them.
-3. Read `OBJECTION-MATRIX.md` and `EMAIL-RULES.md`.
+3. Read `OBJECTION-MATRIX.md` and `EMAIL-RULES.md`. **Writing to a client executive (CEO, president, owner)? Read EMAIL-RULES §15 first — Josh's model email and its checklist override the cold-outreach rules for that audience.**
 4. Read the relevant `APPLICATIONS/` file for the domain (federal-employees or gullstack-sales).
 5. Draft. Self-audit against all three kings + WizGat + hard rules. Only output if every check passes.
 
